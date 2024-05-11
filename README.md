@@ -33,4 +33,5 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 3. Introduction to Agile Development and Scrum - **Completed** - [Certificate](https://coursera.org/share/3b4b23e6e94654c4455bcfbe6e4f20c2)
 
 ---
-###### by Anthony Tesoriero | [AntTes.com](http://anttes.com) | [LinkedIn](https://linkedin.com/in/anttesoriero) | [GitHub](https://github.com/anttesoriero)
+###### Anthony Tesoriero | [AntTes.com](http://anttes.com) | [LinkedIn](https://linkedin.com/in/anttesoriero) | [GitHub](https://github.com/anttesoriero)
+###### Project code © IBM Corporation 2022. All rights reserved.
