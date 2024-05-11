@@ -10,7 +10,7 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 ##### *In Progress*
 1. Introduction to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
   * Code in IBM Cloud
-2. Introduction to Web Development with HTML, CSS, JavaScript - ***Completed* - [Certificate](https://coursera.org/share/fdff4419b01b51483a7506ef38954f6f)
+2. Introduction to Web Development with HTML, CSS, JavaScript - **Completed** - [Certificate](https://coursera.org/share/fdff4419b01b51483a7506ef38954f6f)
 - [Code Folder](/HTML-CSS-JS_Course)
 3. Getting Started with Git and GitHub - *In Progress*
 4. Developing Front-End Apps with React
