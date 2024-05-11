@@ -2,7 +2,7 @@
 ###### Updated 10 May 2024
 Repo for all IBM Certification course code, as well as course tracking.
 
-Final certifications linked with each course, on [LinkedIn](https://linkedin.com/in/anttesoriero), or [Credly](https://credly.com/users/anttesoriero)
+Final certifications linked with each course, on [LinkedIn](https://www.linkedin.com/in/anttesoriero/details/certifications/), or [Credly](https://credly.com/users/anttesoriero)
 
 ---
 
