@@ -12,8 +12,8 @@ Completion certificates are linked next to each completed course, on my [LinkedI
   * Code in IBM Cloud
 2. Introduction to Web Development with HTML, CSS, JavaScript - **Completed** - [Certificate](https://coursera.org/share/fdff4419b01b51483a7506ef38954f6f)
 - [Code Folder](/HTML-CSS-JS_Course)
-3. Getting Started with Git and GitHub - *In Progress*
-4. Developing Front-End Apps with React
+3. Getting Started with Git and GitHub - **Completed** - [Certificate](https://coursera.org/share/66caf0e2d749c1d452fd7dbf45b97663)
+4. Developing Front-End Apps with React - *In Progress*
 5. Developing Back-End Apps with Node.js and Express
 6. Python for Data Science, AI & Development
 7. Developing AI Applications with Python and Flask
