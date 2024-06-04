@@ -1,5 +1,5 @@
 # IBM Certification Repository
-###### Updated 2 June 2024
+###### Updated 4 June 2024
 To further my professional development and technical knowledge, I've decided to compelete some courses and certifications in my free time. This repo will store any code from my courses that I've done, as long as it's not stored in IBM Cloud (depends on the assignment). It's also a place I can track what I'm up to outside of Coursera.
 
 Completion certificates are linked next to each completed course, on my [LinkedIn](https://www.linkedin.com/in/anttesoriero/details/certifications/), or [Credly](https://credly.com/users/anttesoriero)
@@ -23,8 +23,10 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 5. Developing Back-End Apps with Node.js and Express - **Completed** - [Certificate](https://coursera.org/share/bc2e58ba585e30cb329970985222262d)
 - [Partial Final Project](https://github.com/anttesoriero/expressBookReviews)
 6. Python for Data Science, AI & Development - **Completed** - [Certificate](https://coursera.org/share/2ace7371e15d50b790424b47083b275d)
-7. Developing AI Applications with Python and Flask - *In Progress*
-8. Django Application Development with SQL and Databases
+  - Code in IBM Cloud
+7. Developing AI Applications with Python and Flask - **Completed** - [Certificate](https://coursera.org/share/981f1462cfdc3e7c972446db35461e0a)
+- Code in IBM Cloud
+8. Django Application Development with SQL and Databases - *In Progress*
 9. Introduction to Containers w/ Docker, Kubernetes & OpenShift
 10. Application Development using Microservices and Servless
 11. Full Stack Application Development Capstone Project
