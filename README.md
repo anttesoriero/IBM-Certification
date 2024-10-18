@@ -28,8 +28,8 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 - Code in IBM Cloud
 8. Django Application Development with SQL and Databases - **Completed** - [Certificate](https://coursera.org/share/aa4c11cf8e817e36a2c008b5db253fa8)
 9. Introduction to Containers w/ Docker, Kubernetes & OpenShift - **Completed** - [Certificate](https://coursera.org/share/f75ebabe477e6c533160f4c47e6e813f)
-10. Application Development using Microservices and Servless - *In Progress*
-11. Full Stack Application Development Capstone Project
+10. Application Development using Microservices and Servless - **Completed** - [Certificate](https://coursera.org/share/2b3ecaefd2c5c57ede900295c0ad0974)
+11. Full Stack Application Development Capstone Project - *In Progress*
 12. Full Stack Software Developer Assessment
 
 ---
