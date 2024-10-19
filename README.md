@@ -1,5 +1,5 @@
 # IBM Certification Repository
-###### Updated 18 October 2024
+##### **Completed** - 10 May 2024 - [Full Course Certificate](https://coursera.org/share/2695c2a14953b33c56d2661551b1d2f1)
 To further my professional development and technical knowledge, I've decided to compelete some courses and certifications in my free time. This repo will store any code from my courses that I've done, as long as it's not stored in IBM Cloud (depends on the assignment). It's also a place I can track what I'm up to outside of Coursera.
 
 Completion certificates are linked next to each completed course, on my [LinkedIn](https://www.linkedin.com/in/anttesoriero/details/certifications/), or [Credly](https://credly.com/users/anttesoriero)
@@ -7,7 +7,7 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 ---
 
 ### IBM Full Stack Software Developer Certification - [Coursera](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/ibm-full-stack-cloud-developer?authProvider=apple)
-##### *In Progress*
+##### **Completed** - 19 October 2024 - [Full Course Certificate](https://coursera.org/share/42aa258dfcd811818eeecb1c47995760)
 1. Introduction to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
   - Code in IBM Cloud
 2. Introduction to Web Development with HTML, CSS, JavaScript - **Completed** - [Certificate](https://coursera.org/share/fdff4419b01b51483a7506ef38954f6f)
@@ -29,7 +29,8 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 8. Django Application Development with SQL and Databases - **Completed** - [Certificate](https://coursera.org/share/aa4c11cf8e817e36a2c008b5db253fa8)
 9. Introduction to Containers w/ Docker, Kubernetes & OpenShift - **Completed** - [Certificate](https://coursera.org/share/f75ebabe477e6c533160f4c47e6e813f)
 10. Application Development using Microservices and Servless - **Completed** - [Certificate](https://coursera.org/share/2b3ecaefd2c5c57ede900295c0ad0974)
-11. Full Stack Application Development Capstone Project - *In Progress*
+11. Full Stack Application Development Capstone Project - **Completed** - [Certificate](https://coursera.org/share/e02b7642233cac98ef1ad1fc874bd9da)
+  - Code in IBM Cloud
 12. Full Stack Software Developer Assessment - **Completed** - [Certificate](https://coursera.org/share/48393d11dea912c840d1e595b5664e44)
 
 ---
