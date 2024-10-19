@@ -30,7 +30,7 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 9. Introduction to Containers w/ Docker, Kubernetes & OpenShift - **Completed** - [Certificate](https://coursera.org/share/f75ebabe477e6c533160f4c47e6e813f)
 10. Application Development using Microservices and Servless - **Completed** - [Certificate](https://coursera.org/share/2b3ecaefd2c5c57ede900295c0ad0974)
 11. Full Stack Application Development Capstone Project - *In Progress*
-12. Full Stack Software Developer Assessment
+12. Full Stack Software Developer Assessment - **Completed** - [Certificate](https://coursera.org/share/48393d11dea912c840d1e595b5664e44)
 
 ---
 
