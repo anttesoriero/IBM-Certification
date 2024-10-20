@@ -1,8 +1,29 @@
-# IBM Certification Repository
-##### **Completed** - 10 May 2024 - [Full Course Certificate](https://coursera.org/share/2695c2a14953b33c56d2661551b1d2f1)
-To further my professional development and technical knowledge, I've decided to compelete some courses and certifications in my free time. This repo will store any code from my courses that I've done, as long as it's not stored in IBM Cloud (depends on the assignment). It's also a place I can track what I'm up to outside of Coursera.
+# Certification Repository
+###### Updated 20 October 2024
+To further my professional development and technical knowledge, I've decided to compelete some courses and certifications in my free time. This repo will store any code from my courses that I've done, as long as it's not stored inside the course itself (such as IBM Cloud in some assignments). It's also a place I can track what I'm up to outside of Coursera.
 
 Completion certificates are linked next to each completed course, on my [LinkedIn](https://www.linkedin.com/in/anttesoriero/details/certifications/), or [Credly](https://credly.com/users/anttesoriero)
+
+---
+
+### IBM DevOps and Software Engineering Professional Certificate - [Coursera](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/devops-and-software-engineering?authProvider=apple)
+1. Intro to DevOps - **Completed** - [Certificate](https://coursera.org/share/80a4d1d7a4f8f978186adb10c30dd3f3)
+2. Intro to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
+3. Introduction to Agile Development and Scrum - **Completed** - [Certificate](https://coursera.org/share/3b4b23e6e94654c4455bcfbe6e4f20c2)
+4. Introduction to Software Engineering - ***In Progress***
+5. Getting Started with Git and GitHub - **Completed** - [Certificate](https://coursera.org/share/66caf0e2d749c1d452fd7dbf45b97663)
+  - [Hands-on Lab](https://github.com/anttesoriero/jbbmo-Introduction-to-Git-and-GitHub)
+  - [Final Project](https://github.com/anttesoriero/ibm-github-final-project)
+6. Hands-on Introduction to Linux Commands and Shell Scripting
+7. Python for Data Science, AI & Development - **Completed** - [Certificate](https://coursera.org/share/2ace7371e15d50b790424b47083b275d)
+8. Developing AI Applications with Python and Flask - **Completed** - [Certificate](https://coursera.org/share/981f1462cfdc3e7c972446db35461e0a)
+9. Introduction to Containers w/ Docker, Kubernetes & OpenShift - **Completed** - [Certificate](https://coursera.org/share/f75ebabe477e6c533160f4c47e6e813f)
+10. Application Development using Microservices and Servless - **Completed** - [Certificate](https://coursera.org/share/2b3ecaefd2c5c57ede900295c0ad0974)
+11. Introduction to Test and Behavior Driven Development
+12. Continuous Inegration and Continuous Delivery (CI/CD)
+13. Application Security for Developers and DevOps Professionals
+14. Monitoring and Observability for Development and DevOps
+15. DevOps Capstone Project
 
 ---
 
