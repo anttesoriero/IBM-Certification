@@ -30,28 +30,22 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 ### IBM Full Stack Software Developer Certification - [Coursera](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/ibm-full-stack-cloud-developer?authProvider=apple)
 ##### **Completed** - 19 October 2024 - [Full Course Certificate](https://coursera.org/share/42aa258dfcd811818eeecb1c47995760)
 1. Introduction to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
-  - Code in IBM Cloud
 2. Introduction to Web Development with HTML, CSS, JavaScript - **Completed** - [Certificate](https://coursera.org/share/fdff4419b01b51483a7506ef38954f6f)
-- [Full Course Code Folder](/HTML-CSS-JS_Course)
+  - [Full Course Code Folder](/HTML-CSS-JS_Course)
 3. Getting Started with Git and GitHub - **Completed** - [Certificate](https://coursera.org/share/66caf0e2d749c1d452fd7dbf45b97663)
   - [Hands-on Lab](https://github.com/anttesoriero/jbbmo-Introduction-to-Git-and-GitHub)
   - [Final Project](https://github.com/anttesoriero/ibm-github-final-project)
-  - Some code in IBM Cloud
 4. Developing Front-End Apps with React - **Completed** - [Certificate](https://coursera.org/share/8fc92c8d1cb894cab960ff344ac18488)
   - [Hands-on Lab](https://github.com/anttesoriero/uqwxd-react_labs)
   - [Final Project](https://github.com/anttesoriero/ejtos-react_budget_app)
-  - Some code in IBM Cloud
 5. Developing Back-End Apps with Node.js and Express - **Completed** - [Certificate](https://coursera.org/share/bc2e58ba585e30cb329970985222262d)
-- [Partial Final Project](https://github.com/anttesoriero/expressBookReviews)
+  - [Partial Final Project](https://github.com/anttesoriero/expressBookReviews)
 6. Python for Data Science, AI & Development - **Completed** - [Certificate](https://coursera.org/share/2ace7371e15d50b790424b47083b275d)
-  - Code in IBM Cloud
 7. Developing AI Applications with Python and Flask - **Completed** - [Certificate](https://coursera.org/share/981f1462cfdc3e7c972446db35461e0a)
-- Code in IBM Cloud
 8. Django Application Development with SQL and Databases - **Completed** - [Certificate](https://coursera.org/share/aa4c11cf8e817e36a2c008b5db253fa8)
 9. Introduction to Containers w/ Docker, Kubernetes & OpenShift - **Completed** - [Certificate](https://coursera.org/share/f75ebabe477e6c533160f4c47e6e813f)
 10. Application Development using Microservices and Servless - **Completed** - [Certificate](https://coursera.org/share/2b3ecaefd2c5c57ede900295c0ad0974)
 11. Full Stack Application Development Capstone Project - **Completed** - [Certificate](https://coursera.org/share/e02b7642233cac98ef1ad1fc874bd9da)
-  - Code in IBM Cloud
 12. Full Stack Software Developer Assessment - **Completed** - [Certificate](https://coursera.org/share/48393d11dea912c840d1e595b5664e44)
 
 ---
@@ -60,7 +54,6 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 ##### **Completed** - 10 May 2024 - [Full Course Certificate](https://coursera.org/share/2695c2a14953b33c56d2661551b1d2f1)
 1. Intro to DevOps - **Completed** - [Certificate](https://coursera.org/share/80a4d1d7a4f8f978186adb10c30dd3f3)
 2. Intro to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
- * Code in IBM Cloud 
 3. Introduction to Agile Development and Scrum - **Completed** - [Certificate](https://coursera.org/share/3b4b23e6e94654c4455bcfbe6e4f20c2)
 
 ---
