@@ -4,9 +4,15 @@ To further my professional development and technical knowledge, I've decided to 
 
 Completion certificates are linked next to each completed course, on my [LinkedIn](https://www.linkedin.com/in/anttesoriero/details/certifications/), or [Credly](https://credly.com/users/anttesoriero)
 
+### Certificates
+- [IBM DevOps and Software Engineering Professional Certificate](#ibm-devops-and-software-engineering-professional-certificate)
+- [IBM Full Stack Software Developer Certification](#ibm-full-stack-software-developer-certification)
+- [IBM DevOps, Cloud, and Agile Foundations Certification](#ibm-devops-cloud-and-agile-foundations-certification)
+
 ---
 
-### IBM DevOps and Software Engineering Professional Certificate - [Coursera](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/devops-and-software-engineering?authProvider=apple)
+### IBM DevOps and Software Engineering Professional Certificate
+##### [Coursera Link](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/devops-and-software-engineering?authProvider=apple)
 1. Intro to DevOps - **Completed** - [Certificate](https://coursera.org/share/80a4d1d7a4f8f978186adb10c30dd3f3)
 2. Intro to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
 3. Introduction to Agile Development and Scrum - **Completed** - [Certificate](https://coursera.org/share/3b4b23e6e94654c4455bcfbe6e4f20c2)
@@ -27,7 +33,8 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 
 ---
 
-### IBM Full Stack Software Developer Certification - [Coursera](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/ibm-full-stack-cloud-developer?authProvider=apple)
+### IBM Full Stack Software Developer Certification
+##### [Coursera Link](https://www.coursera.org/programs/online-learning-for-apple/professional-certificates/ibm-full-stack-cloud-developer?authProvider=apple)
 ##### **Completed** - 19 October 2024 - [Full Course Certificate](https://coursera.org/share/42aa258dfcd811818eeecb1c47995760)
 1. Introduction to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
 2. Introduction to Web Development with HTML, CSS, JavaScript - **Completed** - [Certificate](https://coursera.org/share/fdff4419b01b51483a7506ef38954f6f)
@@ -50,7 +57,8 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 
 ---
 
-### IBM DevOps, Cloud, and Agile Foundations Certification - [Coursera](https://www.coursera.org/programs/online-learning-for-apple/specializations/devops-cloud-and-agile-foundations?authProvider=apple)
+### IBM DevOps, Cloud, and Agile Foundations Certification
+##### [Coursera Link](https://www.coursera.org/programs/online-learning-for-apple/specializations/devops-cloud-and-agile-foundations?authProvider=apple)
 ##### **Completed** - 10 May 2024 - [Full Course Certificate](https://coursera.org/share/2695c2a14953b33c56d2661551b1d2f1)
 1. Intro to DevOps - **Completed** - [Certificate](https://coursera.org/share/80a4d1d7a4f8f978186adb10c30dd3f3)
 2. Intro to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
