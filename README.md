@@ -10,7 +10,7 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 1. Intro to DevOps - **Completed** - [Certificate](https://coursera.org/share/80a4d1d7a4f8f978186adb10c30dd3f3)
 2. Intro to Cloud Computing - **Completed** - [Certificate](https://coursera.org/share/f2f6ba9eec6fcc590e38dcaae5b8b894)
 3. Introduction to Agile Development and Scrum - **Completed** - [Certificate](https://coursera.org/share/3b4b23e6e94654c4455bcfbe6e4f20c2)
-4. Introduction to Software Engineering - **Completed** - [Certificate](https://coursera.org/share/ddcfc09b71d6401b3ebdca1d7e12fab0)
+4. Introduction to Software Engineering (with Honors) - **Completed** - [Certificate](https://coursera.org/share/ddcfc09b71d6401b3ebdca1d7e12fab0)
 5. Getting Started with Git and GitHub - **Completed** - [Certificate](https://coursera.org/share/66caf0e2d749c1d452fd7dbf45b97663)
   - [Hands-on Lab](https://github.com/anttesoriero/jbbmo-Introduction-to-Git-and-GitHub)
   - [Final Project](https://github.com/anttesoriero/ibm-github-final-project)
