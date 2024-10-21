@@ -20,12 +20,12 @@ Completion certificates are linked next to each completed course, on my [LinkedI
 5. Getting Started with Git and GitHub - **Completed** - [Certificate](https://coursera.org/share/66caf0e2d749c1d452fd7dbf45b97663)
   - [Hands-on Lab](https://github.com/anttesoriero/jbbmo-Introduction-to-Git-and-GitHub)
   - [Final Project](https://github.com/anttesoriero/ibm-github-final-project)
-6. Hands-on Introduction to Linux Commands and Shell Scripting - ***In Progress*** 
+6. Hands-on Introduction to Linux Commands and Shell Scripting - **Completed** - [Certificate](https://coursera.org/share/df419f006148702cce76aaf4ea5e613f)
 7. Python for Data Science, AI & Development - **Completed** - [Certificate](https://coursera.org/share/2ace7371e15d50b790424b47083b275d)
 8. Developing AI Applications with Python and Flask - **Completed** - [Certificate](https://coursera.org/share/981f1462cfdc3e7c972446db35461e0a)
 9. Introduction to Containers w/ Docker, Kubernetes & OpenShift - **Completed** - [Certificate](https://coursera.org/share/f75ebabe477e6c533160f4c47e6e813f)
 10. Application Development using Microservices and Servless - **Completed** - [Certificate](https://coursera.org/share/2b3ecaefd2c5c57ede900295c0ad0974)
-11. Introduction to Test and Behavior Driven Development
+11. Introduction to Test and Behavior Driven Development - ***In Progress***
 12. Continuous Inegration and Continuous Delivery (CI/CD)
 13. Application Security for Developers and DevOps Professionals
 14. Monitoring and Observability for Development and DevOps
